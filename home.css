@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna&display=swap');
+
+h1{
+    font-family: jokerman;
+    color: white;
+    margin: 20px 20px 20px 20px;
+}
+.playwrite-it-moderna {
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+body
+{
+   background-image: url(https://c4.wallpaperflare.com/wallpaper/242/430/410/windows-8-official-hd-wallpaper-preview.jpg);
+   background-size: cover;
+}
+
+p
+{
+    color: black;
+    font-size: 20px;
+    text-align: justify ;
+    line-height: 1.4; 
+    margin: 20px 20px 20px 20px;
+  
+}

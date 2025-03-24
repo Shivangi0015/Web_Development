@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna&display=swap');
+
+h1{
+    text-align: center;
+    /*background-image: url(https://wallpapercave.com/wp/wp7238121.jpg);
+    color: white;
+    background-color: white;*/
+    background-image: url(https://wallpaperaccess.com/full/5188614.jpg);
+    color: white;
+    text-shadow:solid lavender;
+    background-size: cover; 
+    font-family: 'Times New Roman';
+    margin: 20px 20px 20px 20px;
+}
+
+body{
+    /*background-image: url(https://wallpapercave.com/wp/wp7238121.jpg);*/
+    
+    background-color: black;
+    background-size: cover;
+    margin: 20px 20px 20px 20px;
+
+}
+
+a:hover {
+    font-size: 25px;
+    background-image: url(https://images.pexels.com/photos/680940/pexels-photo-680940.jpeg?cs=srgb&dl=pexels-takenbytablo-680940.jpg&fm=jpg);
+    background-size: cover;
+  }
+
+div
+{
+    /*background-image: url(https://th.bing.com/th/id/R.ba8653af41abdab0c5dbe8e1cb28e613?rik=9keLqsajKpUJ9g&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f8%2f2%2f0%2f141588.jpg&ehk=b9rpOSfTgfP8smkZvU3UWuC9daAcqIK3PmJc%2fVlA7bY%3d&risl=&pid=ImgRaw&r=0);*/
+    background-image: url(https://wallpapercave.com/wp/wp7238121.jpg);
+    background-size: cover;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    
+}
+
+.home
+{
+    background-color: blueviolet;
+}
+
+.contact
+{
+    background-color: rgb(21, 18, 233);
+}
+
+.login
+{
+    background-color: rgb(74, 230, 146);
+}
+
+.about
+{
+    background-color:aqua ;
+}
+
+a{
+    font-family: jokerman;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+    color: black;
+    padding: 16px 16px 16px 16px;
+    margin: 0px 60px 0px 40px;
+}
+
+
+.text {
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+p
+{
+    color: white;
+    font-size: 13px;
+    text-align: justify ;
+    line-height: 2; 
+    margin: 20px 20px 20px 20px; 
+    background-color: rgba(49, 130, 153, 0.386);
+  
+}
+

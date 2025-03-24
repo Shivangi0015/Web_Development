@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+h1{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+}
+.text {
+    font-family: "Playwrite IT Moderna";
+  } 
+
+body
+{
+   background-image: url(https://live.staticflickr.com/8392/29095937644_cefed75acb_b.jpg);
+   background-size: cover;
+   margin: 40px 40px 40px 40px;
+   
+
+}
+
+p
+{
+
+    color: white;
+    font-size: 15px;
+    text-align: justify ;
+    line-height: 1.4; 
+    
+  
+}

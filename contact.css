@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+h1{
+    background-color: white;
+    color: black;
+    font-display: uppercase;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+}
+.text {
+    font-family: "Playwrite IT Moderna";
+  } 
+
+body
+{
+   background-image: url(https://images.pexels.com/photos/15387699/pexels-photo-15387699.jpeg?cs=srgb&dl=pexels-ink-drop-118789-15387699.jpg&fm=jpg);
+   background-size: cover;
+   margin: 20px 20px 20px 20px;
+}
+
+p
+{
+    color: white;
+    font-size: 20px;
+    text-align: justify ;
+    line-height: 1.4;
+    margin: 30px 30px 30px 30px; 
+  
+}
+
+img{
+    margin: 20px 20px 20px 20px;
+    border-radius: 50%;
+    width: 40;
+}
